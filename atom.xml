@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RickyTalk</title>
-  <icon>https://rickytalk.github.io/images/icon.png</icon>
+  <icon>https://rickytalk404.github.io/images/icon.png</icon>
   
-  <link href="https://rickytalk.github.io/atom.xml" rel="self"/>
+  <link href="https://rickytalk404.github.io/atom.xml" rel="self"/>
   
-  <link href="https://rickytalk.github.io/"/>
+  <link href="https://rickytalk404.github.io/"/>
   <updated>2022-06-10T06:44:14.868Z</updated>
-  <id>https://rickytalk.github.io/</id>
+  <id>https://rickytalk404.github.io/</id>
   
   <author>
     <name>Ricky Z</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="https://rickytalk.github.io/2022/06/07/test/"/>
-    <id>https://rickytalk.github.io/2022/06/07/test/</id>
+    <link href="https://rickytalk404.github.io/2022/06/07/test/"/>
+    <id>https://rickytalk404.github.io/2022/06/07/test/</id>
     <published>2022-06-08T04:25:56.942Z</published>
     <updated>2022-06-10T06:44:14.868Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://rickytalk.github.io/2022/06/05/hello-world/"/>
-    <id>https://rickytalk.github.io/2022/06/05/hello-world/</id>
+    <link href="https://rickytalk404.github.io/2022/06/05/hello-world/"/>
+    <id>https://rickytalk404.github.io/2022/06/05/hello-world/</id>
     <published>2022-06-05T16:24:44.785Z</published>
     <updated>2022-06-12T18:49:17.341Z</updated>
     
@@ -55,12 +55,12 @@
     
     
     
-    <category term="Markdown" scheme="https://rickytalk.github.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="https://rickytalk404.github.io/categories/Markdown/"/>
     
     
-    <category term="test" scheme="https://rickytalk.github.io/tags/test/"/>
+    <category term="test" scheme="https://rickytalk404.github.io/tags/test/"/>
     
-    <category term="test1" scheme="https://rickytalk.github.io/tags/test1/"/>
+    <category term="test1" scheme="https://rickytalk404.github.io/tags/test1/"/>
     
   </entry>
   
