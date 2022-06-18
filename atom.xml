@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RickyTalk</title>
+  <icon>https://rickytalk.github.io/images/icon.png</icon>
+  
+  <link href="https://rickytalk.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://rickytalk.github.io/"/>
+  <updated>2022-06-10T06:44:14.868Z</updated>
+  <id>https://rickytalk.github.io/</id>
+  
+  <author>
+    <name>Ricky Z</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://rickytalk.github.io/2022/06/07/test/"/>
+    <id>https://rickytalk.github.io/2022/06/07/test/</id>
+    <published>2022-06-08T04:25:56.942Z</published>
+    <updated>2022-06-10T06:44:14.868Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://rickytalk.github.io/2022/06/05/hello-world/"/>
+    <id>https://rickytalk.github.io/2022/06/05/hello-world/</id>
+    <published>2022-06-05T16:24:44.785Z</published>
+    <updated>2022-06-12T18:49:17.341Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="https://rickytalk.github.io/categories/Markdown/"/>
+    
+    
+    <category term="test" scheme="https://rickytalk.github.io/tags/test/"/>
+    
+    <category term="test1" scheme="https://rickytalk.github.io/tags/test1/"/>
+    
+  </entry>
+  
+</feed>
