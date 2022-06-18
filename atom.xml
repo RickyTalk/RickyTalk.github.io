@@ -6,7 +6,7 @@
   <link href="https://rickytalk404.github.io/atom.xml" rel="self"/>
   
   <link href="https://rickytalk404.github.io/"/>
-  <updated>2022-06-10T06:44:14.868Z</updated>
+  <updated>2022-06-18T18:02:37.113Z</updated>
   <id>https://rickytalk404.github.io/</id>
   
   <author>
@@ -17,18 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://rickytalk404.github.io/2022/06/07/test/"/>
-    <id>https://rickytalk404.github.io/2022/06/07/test/</id>
-    <published>2022-06-08T04:25:56.942Z</published>
-    <updated>2022-06-10T06:44:14.868Z</updated>
+    <title>test chinese</title>
+    <link href="https://rickytalk404.github.io/2022/06/18/%E4%B8%AD%E6%96%87/test-chinese/"/>
+    <id>https://rickytalk404.github.io/2022/06/18/%E4%B8%AD%E6%96%87/test-chinese/</id>
+    <published>2022-06-18T18:01:06.000Z</published>
+    <updated>2022-06-18T18:02:37.113Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+    <summary type="html">&lt;p&gt;this is</summary>
+        
+      
+    
+    
+    
+    <category term="中文" scheme="https://rickytalk404.github.io/categories/%E4%B8%AD%E6%96%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>shan</title>
+    <link href="https://rickytalk404.github.io/2022/06/18/uncategorized/shan-yi-ru-qin-1/"/>
+    <id>https://rickytalk404.github.io/2022/06/18/uncategorized/shan-yi-ru-qin-1/</id>
+    <published>2022-06-18T17:52:10.000Z</published>
+    <updated>2022-06-18T17:52:31.570Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This is a</summary>
         
       
     
@@ -38,9 +61,48 @@
   </entry>
   
   <entry>
+    <title>test2test</title>
+    <link href="https://rickytalk404.github.io/2022/06/18/uncategorized/test2/"/>
+    <id>https://rickytalk404.github.io/2022/06/18/uncategorized/test2/</id>
+    <published>2022-06-18T17:41:33.000Z</published>
+    <updated>2022-06-18T17:43:16.446Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This is a test &lt;/p&gt;
+&lt;h2 id=&quot;here-is-a-title&quot;&gt;&lt;a href=&quot;#here-is-a-title&quot; class=&quot;headerlink&quot; title=&quot;here is a title&quot;&gt;&lt;/a&gt;here is a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="test" scheme="https://rickytalk404.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://rickytalk404.github.io/2022/06/07/uncategorized/test/"/>
+    <id>https://rickytalk404.github.io/2022/06/07/uncategorized/test/</id>
+    <published>2022-06-08T04:25:56.942Z</published>
+    <updated>2022-06-18T17:52:40.817Z</updated>
+    
+    
+    <summary type="html">This is a test</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://rickytalk404.github.io/2022/06/05/hello-world/"/>
-    <id>https://rickytalk404.github.io/2022/06/05/hello-world/</id>
+    <link href="https://rickytalk404.github.io/2022/06/05/Markdown/hello-world/"/>
+    <id>https://rickytalk404.github.io/2022/06/05/Markdown/hello-world/</id>
     <published>2022-06-05T16:24:44.785Z</published>
     <updated>2022-06-12T18:49:17.341Z</updated>
     
