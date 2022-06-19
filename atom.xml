@@ -6,7 +6,7 @@
   <link href="https://rickytalk404.github.io/atom.xml" rel="self"/>
   
   <link href="https://rickytalk404.github.io/"/>
-  <updated>2022-06-18T18:02:37.113Z</updated>
+  <updated>2022-06-19T06:39:16.647Z</updated>
   <id>https://rickytalk404.github.io/</id>
   
   <author>
@@ -17,70 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test chinese</title>
-    <link href="https://rickytalk404.github.io/2022/06/18/%E4%B8%AD%E6%96%87/test-chinese/"/>
-    <id>https://rickytalk404.github.io/2022/06/18/%E4%B8%AD%E6%96%87/test-chinese/</id>
-    <published>2022-06-18T18:01:06.000Z</published>
-    <updated>2022-06-18T18:02:37.113Z</updated>
+    <title>中文</title>
+    <link href="https://rickytalk404.github.io/2022/06/18/%E4%B8%AD%E6%96%87/chinese/"/>
+    <id>https://rickytalk404.github.io/2022/06/18/%E4%B8%AD%E6%96%87/chinese/</id>
+    <published>2022-06-19T06:37:43.333Z</published>
+    <updated>2022-06-19T06:39:16.647Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;this is</summary>
-        
-      
+    <summary type="html">中文测试</summary>
     
     
     
     <category term="中文" scheme="https://rickytalk404.github.io/categories/%E4%B8%AD%E6%96%87/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>shan</title>
-    <link href="https://rickytalk404.github.io/2022/06/18/uncategorized/shan-yi-ru-qin-1/"/>
-    <id>https://rickytalk404.github.io/2022/06/18/uncategorized/shan-yi-ru-qin-1/</id>
-    <published>2022-06-18T17:52:10.000Z</published>
-    <updated>2022-06-18T17:52:31.570Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;This is a</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test2test</title>
-    <link href="https://rickytalk404.github.io/2022/06/18/uncategorized/test2/"/>
-    <id>https://rickytalk404.github.io/2022/06/18/uncategorized/test2/</id>
-    <published>2022-06-18T17:41:33.000Z</published>
-    <updated>2022-06-18T17:43:16.446Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;This is a test &lt;/p&gt;
-&lt;h2 id=&quot;here-is-a-title&quot;&gt;&lt;a href=&quot;#here-is-a-title&quot; class=&quot;headerlink&quot; title=&quot;here is a title&quot;&gt;&lt;/a&gt;here is a</summary>
-        
-      
-    
-    
-    
-    
-    <category term="test" scheme="https://rickytalk404.github.io/tags/test/"/>
+    <category term="诗歌" scheme="https://rickytalk404.github.io/tags/%E8%AF%97%E6%AD%8C/"/>
     
   </entry>
   
@@ -104,16 +55,10 @@
     <link href="https://rickytalk404.github.io/2022/06/05/Markdown/hello-world/"/>
     <id>https://rickytalk404.github.io/2022/06/05/Markdown/hello-world/</id>
     <published>2022-06-05T16:24:44.785Z</published>
-    <updated>2022-06-12T18:49:17.341Z</updated>
+    <updated>2022-06-18T22:51:37.640Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
+    <summary type="html">this is a test for markdown</summary>
     
     
     
