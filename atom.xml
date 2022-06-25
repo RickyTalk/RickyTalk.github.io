@@ -6,7 +6,7 @@
   <link href="https://rickytalk404.github.io/atom.xml" rel="self"/>
   
   <link href="https://rickytalk404.github.io/"/>
-  <updated>2022-06-19T06:39:16.647Z</updated>
+  <updated>2022-06-25T19:49:55.190Z</updated>
   <id>https://rickytalk404.github.io/</id>
   
   <author>
@@ -17,36 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>中文</title>
-    <link href="https://rickytalk404.github.io/2022/06/18/%E4%B8%AD%E6%96%87/chinese/"/>
-    <id>https://rickytalk404.github.io/2022/06/18/%E4%B8%AD%E6%96%87/chinese/</id>
-    <published>2022-06-19T06:37:43.333Z</published>
-    <updated>2022-06-19T06:39:16.647Z</updated>
+    <title>美国的第二次内战：Roe v. Wade</title>
+    <link href="https://rickytalk404.github.io/2022/06/25/%E6%9D%82%E6%96%87/20220624roe-wade-overturn/"/>
+    <id>https://rickytalk404.github.io/2022/06/25/%E6%9D%82%E6%96%87/20220624roe-wade-overturn/</id>
+    <published>2022-06-25T19:31:24.000Z</published>
+    <updated>2022-06-25T19:49:55.190Z</updated>
     
     
-    <summary type="html">中文测试</summary>
-    
-    
-    
-    <category term="中文" scheme="https://rickytalk404.github.io/categories/%E4%B8%AD%E6%96%87/"/>
-    
-    
-    <category term="诗歌" scheme="https://rickytalk404.github.io/tags/%E8%AF%97%E6%AD%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://rickytalk404.github.io/2022/06/07/uncategorized/test/"/>
-    <id>https://rickytalk404.github.io/2022/06/07/uncategorized/test/</id>
-    <published>2022-06-08T04:25:56.942Z</published>
-    <updated>2022-06-18T17:52:40.817Z</updated>
-    
-    
-    <summary type="html">This is a test</summary>
+    <summary type="html">聊聊争议极大的美国堕胎法案的前因后果，多数媒体都没有说到根本问题。</summary>
     
     
     
+    <category term="杂文" scheme="https://rickytalk404.github.io/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="美国" scheme="https://rickytalk404.github.io/tags/%E7%BE%8E%E5%9B%BD/"/>
+    
+    <category term="政治" scheme="https://rickytalk404.github.io/tags/%E6%94%BF%E6%B2%BB/"/>
+    
+    <category term="历史" scheme="https://rickytalk404.github.io/tags/%E5%8E%86%E5%8F%B2/"/>
     
   </entry>
   
