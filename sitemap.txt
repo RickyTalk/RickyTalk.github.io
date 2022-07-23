@@ -1,5 +1,4 @@
 https://rickytalk404.github.io/2022/04/17/%E6%9D%82%E6%96%87/20220417-lost-in-desert/
-https://rickytalk404.github.io/2022/06/05/uncategorized/hello-world/
 https://rickytalk404.github.io/2022/06/25/%E6%9D%82%E6%96%87/20220624roe-wade-overturn/
 https://rickytalk404.github.io/about/index.html
 https://rickytalk404.github.io/tags/index.html
@@ -10,5 +9,4 @@ https://rickytalk404.github.io/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/
 https://rickytalk404.github.io/tags/%E7%BE%8E%E5%9B%BD/
 https://rickytalk404.github.io/tags/%E6%94%BF%E6%B2%BB/
 https://rickytalk404.github.io/tags/%E5%8E%86%E5%8F%B2/
-https://rickytalk404.github.io/tags/test/
 https://rickytalk404.github.io/categories/%E6%9D%82%E6%96%87/
